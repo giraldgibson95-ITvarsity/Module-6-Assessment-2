@@ -1,0 +1,18 @@
+a{
+    color:gold;
+
+    
+}
+h1{
+    color: gold;
+    background-image: url(images/cover2.jpg);
+}
+body{
+    background-image:url(images/cover1.jpg);
+    text-decoration-color:gold;
+}
+P{
+    color: purple;
+    font-style: italic;
+    font-weight: bold;
+}
